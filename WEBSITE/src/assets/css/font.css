@@ -1,0 +1,58 @@
+
+@font-face {
+    font-family: NRTB;
+    src: url(../fonts/NRT-Bd.ttf);
+}
+@font-face {
+    font-family: NRTR;
+    src: url(../fonts/NRT-Reg.ttf);
+}
+
+@font-face {
+    font-family: Asiacell001;
+    src: url(../fonts/UniQAIDAR_Asiacell001.ttf);
+}
+@font-face {
+    font-family: Asiacell002;
+    src: url(../fonts/UniQAIDAR_Asiacell002.ttf);
+}
+@font-face {
+    font-family: Speda;
+    src: url(../fonts/Speda.ttf);
+}
+@font-face {
+    font-family: Speda-Bold;
+    src: url(../fonts/Speda-Bold.ttf);
+}
+@font-face {
+    font-family: RudawB;
+    src: url(../fonts/NewRudaw-Bold.woff2);
+}
+@font-face {
+    font-family: RudawR;
+    src: url(../fonts/NewRudaw-Regular.woff2);
+}
+
+
+*{
+    font-family: RudawB !important;
+}
+
+.FONTREG{
+    font-family: RudawR !important;
+ 
+}
+
+.FONTBOLD{
+    font-family: RudawB !important;
+}
+
+body{
+    margin: 0 !important;
+}
+
+
+.zoom:hover img {
+    transform: scale(1.1);
+  }
+

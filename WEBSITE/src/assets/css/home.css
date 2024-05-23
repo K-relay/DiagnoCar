@@ -1,0 +1,101 @@
+
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper {
+  background-color: var(--fallback-b2,oklch(var(--b2)/var(--tw-bg-opacity))) !important;
+}
+
+.css-18sg6k4-MuiPaper-root-MuiDrawer-paper {
+  background-color: var(--fallback-b2,oklch(var(--b2)/var(--tw-bg-opacity))) !important;
+  
+}
+
+.css-1160xiw-MuiPaper-root-MuiDrawer-paper {
+  background-color: var(--fallback-b2,oklch(var(--b2)/var(--tw-bg-opacity))) !important;
+
+}
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root:hover{
+  background-color: unset !important; 
+}
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root{
+  background-color: unset !important;
+}
+.login-form {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.css-uyr8il-MuiButtonBase-root-MuiMenuItem-root:hover{-webkit-text-decoration:none;text-decoration:none;background-color:rgba(83, 83, 83, 0.103) !important; color: #000;}
+
+
+/* Apply the custom scrollbar to the entire document or specific container */
+body {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
+}
+
+/* Define the scrollbar styles for Firefox */
+body::-webkit-scrollbar {
+  width: 8px;
+}
+
+body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(155, 155, 155, 0.5);
+  border-radius: 4px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(155, 155, 155, 0.7);
+}
+
+/* Define the scrollbar styles for other browsers */
+body {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
+}
+
+body::-webkit-scrollbar {
+  width: 8px;
+}
+
+body::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgba(155, 155, 155, 0.5);
+  border-radius: 4px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(155, 155, 155, 0.7);
+}
+
+  .thumbs-wrapper, 
+  .control-arrow,.carousel .control-dots,
+  .carousel-status { 
+    display: none !important;
+  }
+
+
+ 
+  
+  
+
