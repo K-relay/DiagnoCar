@@ -1,0 +1,315 @@
+{
+
+    "en": {
+        "1": {
+          "Question": "How do car diagnostic codes help in identifying vehicle issues?",
+          "Answer": "Car diagnostic codes provide specific information about problems detected within a vehicle's systems, aiding in pinpointing the issue for repair."
+        },
+        "2": {
+          "Question": "What types of problems can car diagnostic codes detect?",
+          "Answer": "Car diagnostic codes can detect a wide range of issues, including engine malfunctions, transmission problems, emission system faults, and more."
+        },
+        "3": {
+          "Question": "Are car diagnostic codes universal across all vehicle brands?",
+          "Answer": "Certain diagnostic codes are standardized (such as OBD-II codes), but some manufacturers might have their proprietary codes or interpretations."
+        },
+        "4": {
+          "Question": "Can car diagnostic codes be retrieved without specialized tools?",
+          "Answer": "Basic code readers or OBD-II scanners are commonly used to retrieve diagnostic codes, but more advanced issues might require professional diagnostic tools."
+        },
+        "5": {
+          "Question": "What are some common reasons for a 'check engine' light to appear based on diagnostic codes?",
+          "Answer": "Common reasons include issues with the oxygen sensor, catalytic converter, loose gas cap, or misfiring engine."
+        },
+        "6": {
+          "Question": "How accurate are car diagnostic codes in pinpointing specific car problems?",
+          "Answer": "Diagnostic codes provide a starting point for identifying issues but may not always precisely pinpoint the exact problem, requiring further investigation."
+        },
+        "7": {
+          "Question": "How often should one check for diagnostic codes in their vehicle?",
+          "Answer": "Regular checks during routine maintenance or when warning lights appear can help catch issues early and prevent potential problems."
+        },
+        "8": {
+          "Question": "Can car diagnostic codes be cleared/reset without fixing the underlying issue?",
+          "Answer": "Yes, codes can be cleared, but it's crucial to address the underlying problem; otherwise, the issue might persist and trigger the code again."
+        },
+        "9": {
+          "Question": "Are there different types of car diagnostic codes for various vehicle systems?",
+          "Answer": "Yes, diagnostic codes can cover different vehicle systems, including the engine, transmission, ABS, airbags, and more."
+        },
+        "10": {
+          "Question": "What are the consequences of ignoring car diagnostic codes?",
+          "Answer": "Ignoring diagnostic codes may lead to worsened vehicle performance, reduced fuel efficiency, and potential damage to other components."
+        },
+        "11": {
+          "Question": "Can car diagnostic codes be accessed using smartphone apps?",
+          "Answer": "There are OBD-II scanner apps available that can read diagnostic codes via a compatible adapter connected to the vehicle's OBD-II port."
+        },
+        "12": {
+          "Question": "How do mechanics interpret car diagnostic codes to repair issues?",
+          "Answer": "Mechanics use code readers or scan tools to retrieve codes, then consult databases or manuals to interpret the codes and diagnose the problem."
+        },
+        "13": {
+          "Question": "Are there DIY methods to interpret and address car diagnostic codes at home?",
+          "Answer": "Yes, some DIY enthusiasts use code readers and online resources to interpret codes, but complex issues might require professional expertise."
+        },
+        "14": {
+          "Question": "Can car diagnostic codes help in identifying intermittent car problems?",
+          "Answer": "Yes, diagnostic codes can sometimes capture intermittent issues if they occur when the system performs a diagnostic self-check."
+        },
+        "15": {
+          "Question": "What advancements have been made in car diagnostic code technology in recent years?",
+          "Answer": "Advancements include more sophisticated scanners, wireless connectivity, and improved code interpretation software for better accuracy."
+        },
+        "16": {
+          "Question": "Can a single problem trigger multiple diagnostic codes?",
+          "Answer": "Yes, certain issues affecting multiple systems or components can trigger multiple diagnostic codes simultaneously."
+        },
+        "17": {
+          "Question": "Are there generic codes that apply to any car, regardless of make or model?",
+          "Answer": "Yes, OBD-II codes are standardized and apply to most vehicles manufactured after 1996, providing a common language for diagnostics."
+        },
+        "18": {
+          "Question": "How do emission-related diagnostic codes impact vehicle performance?",
+          "Answer": "Emission-related codes often indicate issues affecting fuel efficiency and can cause poor performance or increased emissions."
+        },
+        "19": {
+          "Question": "Can car diagnostic codes indicate problems beyond the engine or emissions systems?",
+          "Answer": "Yes, diagnostic codes can cover various vehicle systems, including transmission, brakes, airbags, and more."
+        },
+        "20": {
+          "Question": "What are some common misconceptions about car diagnostic codes and their meanings?",
+          "Answer": "Misconceptions include assuming that clearing codes fixes problems or that a single code always points to a single, straightforward issue."
+        } },
+    "es": {
+        "1": {
+            "Question": "¿Cómo ayudan los códigos de diagnóstico de automóviles a identificar problemas del vehículo?",
+            "Answer": "Los códigos de diagnóstico de automóviles proporcionan información específica sobre los problemas detectados dentro de los sistemas de un vehículo, ayudando a localizar el problema para su reparación."
+        },
+        "2": {
+            "Question": "¿Qué tipos de problemas pueden detectar los códigos de diagnóstico de automóviles?",
+            "Answer": "Los códigos de diagnóstico de automóviles pueden detectar una amplia gama de problemas, incluyendo fallas en el motor, problemas de transmisión, fallas en el sistema de emisiones y más."
+        },
+        "3": {
+            "Question": "¿Son universales los códigos de diagnóstico de automóviles en todas las marcas de vehículos?",
+            "Answer": "Algunos códigos de diagnóstico están estandarizados (como los códigos OBD-II), pero algunos fabricantes podrían tener sus propios códigos o interpretaciones."
+        },
+        "4": {
+            "Question": "¿Se pueden obtener los códigos de diagnóstico de automóviles sin herramientas especializadas?",
+            "Answer": "Los lectores de códigos básicos o escáneres OBD-II se utilizan comúnmente para obtener los códigos de diagnóstico, pero problemas más avanzados podrían requerir herramientas de diagnóstico profesionales."
+        },
+        "5": {
+            "Question": "¿Cuáles son algunas razones comunes por las que aparece la luz de 'revisar motor' según los códigos de diagnóstico?",
+            "Answer": "Las razones comunes incluyen problemas con el sensor de oxígeno, convertidor catalítico, tapa de gasolina suelta o motor con fallo de encendido."
+        },
+        "6": {
+            "Question": "¿Qué tan precisos son los códigos de diagnóstico de automóviles para identificar problemas específicos del automóvil?",
+            "Answer": "Los códigos de diagnóstico proporcionan un punto de partida para identificar problemas, pero no siempre pueden señalar exactamente el problema, lo que requiere una investigación adicional."
+        },
+        "7": {
+            "Question": "¿Con qué frecuencia se deben revisar los códigos de diagnóstico en un vehículo?",
+            "Answer": "Revisiones regulares durante el mantenimiento de rutina o cuando aparecen luces de advertencia pueden ayudar a detectar problemas temprano y prevenir problemas potenciales."
+        },
+        "8": {
+            "Question": "¿Se pueden borrar/restablecer los códigos de diagnóstico de automóviles sin solucionar el problema subyacente?",
+            "Answer": "Sí, los códigos pueden borrarse, pero es crucial abordar el problema subyacente; de lo contrario, el problema podría persistir y activar nuevamente el código."
+        },
+        "9": {
+            "Question": "¿Existen diferentes tipos de códigos de diagnóstico de automóviles para varios sistemas de vehículos?",
+            "Answer": "Sí, los códigos de diagnóstico pueden cubrir diferentes sistemas de vehículos, incluyendo el motor, la transmisión, ABS, airbags y más."
+        },
+        "10": {
+            "Question": "¿Cuáles son las consecuencias de ignorar los códigos de diagnóstico de automóviles?",
+            "Answer": "Ignorar los códigos de diagnóstico puede llevar a un empeoramiento del rendimiento del vehículo, una menor eficiencia de combustible y daños potenciales en otros componentes."
+        },
+        "11": {
+            "Question": "¿Se pueden acceder a los códigos de diagnóstico de automóviles usando aplicaciones para teléfonos inteligentes?",
+            "Answer": "Existen aplicaciones de escáneres OBD-II disponibles que pueden leer los códigos de diagnóstico a través de un adaptador compatible conectado al puerto OBD-II del vehículo."
+        },
+        "12": {
+            "Question": "¿Cómo interpretan los mecánicos los códigos de diagnóstico de automóviles para reparar problemas?",
+            "Answer": "Los mecánicos usan lectores de códigos o herramientas de escaneo para obtener los códigos, luego consultan bases de datos o manuales para interpretar los códigos y diagnosticar el problema."
+        },
+        "13": {
+            "Question": "¿Existen métodos caseros para interpretar y solucionar los códigos de diagnóstico de automóviles?",
+            "Answer": "Sí, algunos entusiastas del bricolaje usan lectores de códigos y recursos en línea para interpretar los códigos, pero problemas complejos podrían requerir experiencia profesional."
+        },
+        "14": {
+            "Question": "¿Pueden los códigos de diagnóstico de automóviles ayudar a identificar problemas intermitentes del automóvil?",
+            "Answer": "Sí, los códigos de diagnóstico a veces pueden capturar problemas intermitentes si ocurren cuando el sistema realiza una autoverificación diagnóstica."
+        },
+        "15": {
+            "Question": "¿Qué avances se han hecho en la tecnología de códigos de diagnóstico de automóviles en los últimos años?",
+            "Answer": "Los avances incluyen escáneres más sofisticados, conectividad inalámbrica y software mejorado de interpretación de códigos para una mayor precisión."
+        },
+        "16": {
+            "Question": "¿Puede un solo problema activar múltiples códigos de diagnóstico?",
+            "Answer": "Sí, ciertos problemas que afectan múltiples sistemas o componentes pueden activar múltiples códigos de diagnóstico simultáneamente."
+        },
+        "17": {
+            "Question": "¿Existen códigos genéricos que se apliquen a cualquier automóvil, independientemente de la marca o modelo?",
+            "Answer": "Sí, los códigos OBD-II están estandarizados y se aplican a la mayoría de los vehículos fabricados después de 1996, proporcionando un lenguaje común para diagnósticos."
+        },
+        "18": {
+            "Question": "¿Cómo impactan los códigos de diagnóstico relacionados con emisiones en el rendimiento del vehículo?",
+            "Answer": "Los códigos relacionados con emisiones a menudo indican problemas que afectan la eficiencia del combustible y pueden causar un mal rendimiento o mayores emisiones."
+        },
+        "19": {
+            "Question": "¿Pueden los códigos de diagnóstico de automóviles indicar problemas más allá del motor o los sistemas de emisiones?",
+            "Answer": "Sí, los códigos de diagnóstico pueden cubrir varios sistemas de vehículos, incluyendo la transmisión, frenos, airbags y más."
+        },
+        "20": {
+            "Question": "¿Cuáles son algunos conceptos erróneos comunes sobre los códigos de diagnóstico de automóviles y sus significados?",
+            "Answer": "Los conceptos erróneos incluyen asumir que borrar los códigos soluciona los problemas o que un solo código siempre apunta a un problema único y directo."
+        }
+        
+    }, "ar": {
+        "1": {
+          "Question": "كيف تساعد رموز تشخيص السيارة في تحديد مشاكل السيارة؟",
+          "Answer": "توفر رموز تشخيص السيارة معلومات محددة حول المشكلات المكتشفة داخل أنظمة السيارة، مما يساعد في تحديد المشكلة لإصلاحها."
+        },
+        "2": {
+          "Question": "ما هي أنواع المشاكل التي يمكن لرموز تشخيص السيارة اكتشافها؟",
+          "Answer": "يمكن لرموز تشخيص السيارة اكتشاف مجموعة واسعة من المشكلات، بما في ذلك أعطال المحرك ومشاكل ناقل الحركة وأخطاء نظام الانبعاثات والمزيد."
+        },
+        "3": {
+          "Question": "هل رموز تشخيص السيارات عالمية في جميع ماركات المركبات؟",
+          "Answer": "يتم توحيد بعض الرموز التشخيصية (مثل رموز التشخيص التشخيصي (OBD-II)، ولكن قد يكون لدى بعض الشركات المصنعة رموز أو تفسيرات خاصة بها."
+        },
+        "4": {
+          "Question": "هل يمكن استرجاع رموز تشخيص السيارة بدون أدوات متخصصة؟",
+          "Answer": "يتم استخدام قارئات الرموز الأساسية أو الماسحات الضوئية OBD-II بشكل شائع لاسترداد رموز التشخيص، ولكن قد تتطلب المشكلات الأكثر تقدمًا أدوات تشخيص احترافية."
+        },
+        "5": {
+          "Question": "ما هي بعض الأسباب الشائعة لظهور ضوء ص المحرك بناءً على رموز التشخيص؟",
+          "Answer": "تتضمن الأسباب الشائعة مشكلات في مستشعر الأكسجين، أو المحول الحفاز، أو غطاء الغاز المفكوك، أو المحرك غير الصحيح."
+        },
+        "6": {
+          "Question": "ما مدى دقة رموز تشخيص السيارة في تحديد مشاكل معينة في السيارة؟",
+          "Answer": "توفر رموز التشخيص نقطة بداية لتحديد المشكلات، ولكنها قد لا تحدد دائمًا المشكلة بدقة، مما يتطلب مزيدًا من التحقيق."
+        },
+        "7": {
+          "Question": "كم مرة يجب على الشخص التحقق من وجود رموز التشخيص في سيارته؟",
+          "Answer": "يمكن أن تساعد الفحوصات المنتظمة أثناء الصيانة الروتينية أو عند ظهور أضواء التحذير في اكتشاف المشكلات مبكرًا ومنع حدوث مشكلات محتملة."
+        },
+        "8": {
+          "Question": "هل يمكن مسح/إعادة ضبط رموز تشخيص السيارة دون إصلاح المشكلة الأساسية؟",
+          "Answer": "نعم، يمكن مسح الرموز، ولكن من الضروري معالجة المشكلة الأساسية؛ وإلا فقد تستمر المشكلة وتؤدي إلى تشغيل الرمز مرة أخرى."
+        },
+        "9": {
+          "Question": "هل هناك أنواع مختلفة من رموز تشخيص السيارات لمختلف أنظمة المركبات؟",
+          "Answer": "نعم، يمكن أن تغطي رموز التشخيص أنظمة السيارة المختلفة، بما في ذلك المحرك وناقل الحركة ونظام ABS والوسائد الهوائية والمزيد."
+        },
+        "10": {
+          "Question": "ما هي عواقب تجاهل رموز تشخيص السيارة؟",
+          "Answer": "قد يؤدي تجاهل رموز التشخيص إلى تدهور أداء السيارة، وانخفاض كفاءة استهلاك الوقود، واحتمال تلف المكونات الأخرى."
+        },
+        "11": {
+          "Question": "هل يمكن الوصول إلى رموز تشخيص السيارة باستخدام تطبيقات الهاتف الذكي؟",
+          "Answer": "تتوفر تطبيقات الماسح الضوئي obd-ii التي يمكنها قراءة رموز التشخيص عبر محول متوافق متصل بمنفذ obd-ii الخاص بالمركبة."
+        },
+        "12": {
+          "Question": "كيف يفسر الميكانيكيون رموز تشخيص السيارة لإصلاح المشكلات؟",
+          "Answer": "يستخدم الميكانيكيون أجهزة قراءة الأكواد أو أدوات المسح لاسترداد الأكواد، ثم يستشيرون قواعد البيانات أو الأدلة لتفسير الأكواد وتشخيص المشكلة."
+        },
+        "13": {
+          "Question": "هل هناك طرق DIY لتفسير ومعالجة رموز تشخيص السيارة في المنزل؟",
+          "Answer": "نعم، يستخدم بعض المتحمسين للأعمال اليدوية قارئات الأكواد والموارد عبر الإنترنت لتفسير الأكواد، ولكن قد تتطلب المشكلات المعقدة خبرة احترافية."
+        },
+        "14": {
+          "Question": "هل يمكن أن تساعد رموز تشخيص السيارة في تحديد المشاكل المتقطعة للسيارة؟",
+          "Answer": "نعم، يمكن للرموز التشخيصية في بعض الأحيان التقاط المشكلات المتقطعة في حالة حدوثها عندما يقوم النظام بإجراء فحص ذاتي تشخيصي."
+        },
+        "15": {
+          "Question": "ما هي التطورات التي تم إحرازها في تقنية رموز تشخيص السيارات في السنوات الأخيرة؟",
+          "Answer": "تتضمن التطورات ماسحات ضوئية أكثر تطورًا واتصالًا لاسلكيًا وبرامج تفسير التعليمات البرمجية المحسنة للحصول على دقة أفضل."
+        },
+        "16": {
+          "Question": "هل يمكن لمشكلة واحدة أن تؤدي إلى ظهور رموز تشخيصية متعددة؟",
+          "Answer": "نعم، بعض المشكلات التي تؤثر على أنظمة أو مكونات متعددة يمكن أن تؤدي إلى تشغيل رموز تشخيصية متعددة في وقت واحد."
+        },
+        "17": {
+          "Question": "هل هناك رموز عامة تنطبق على أي سيارة بغض النظر عن نوعها أو موديلها؟",
+          "Answer": "نعم، رموز OBD-II موحدة وتنطبق على معظم المركبات المصنعة بعد عام 1996، مما يوفر لغة مشتركة للتشخيص."
+        },
+        "18": {
+          "Question": "كيف تؤثر رموز التشخيص المتعلقة بالانبعاثات على أداء السيارة؟",
+          "Answer": "غالبًا ما تشير الرموز المتعلقة بالانبعاثات إلى مشكلات تؤثر على كفاءة استهلاك الوقود ويمكن أن تتسبب في ضعف الأداء أو زيادة الانبعاثات."
+        }
+      },
+      "ku": {
+        "1": {
+          "Question": "چۆن کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل یارمەتیدەرن لە ناسینەوەی کێشەکانی ئۆتۆمبێل؟",
+          "Answer": "کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل زانیاری تایبەت دەدەن سەبارەت بەو کێشانەی کە لەناو سیستەمی ئۆتۆمبێلێکدا دۆزراونەتەوە, یارمەتیدەرە لە دەستنیشانکردنی کێشەکە بۆ چاککردنەوە."
+        },
+        "2": {
+          "Question": "کۆدی دەستنیشانکردنی ئۆتۆمبێل دەتوانێت چ جۆرە کێشەیەک دەستنیشان بکات؟",
+          "Answer": "کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل دەتوانن کۆمەڵێک کێشەی بەرفراوان دەستنیشان بکەن, لەوانە تێکچوونی کارکردنی بزوێنەر, کێشەی گێڕ, هەڵەی سیستەمی دەردانی گازی ژەهراوی و زۆر شتی تر."
+        },
+        "3": {
+          "Question": "ئایا کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل گشتگیرن لە سەرانسەری هەموو براندەکانی ئۆتۆمبێلدا؟",
+          "Answer": "هەندێک کۆدی دەستنیشانکردن ستانداردن (وەک کۆدەکانی OBD-II), بەڵام ڕەنگە هەندێک لە بەرهەمهێنەران کۆد یان لێکدانەوە تایبەتمەندەکانیان هەبێت."
+        },
+        "4": {
+          "Question": "ئایا دەتوانرێت کۆدی دەستنیشانکردنی ئۆتۆمبێل بەبێ ئامرازی تایبەتمەند وەربگیرێتەوە؟",
+          "Answer": "خوێنەری کۆدی بنەڕەتی یان سکانەری OBD-II بە شێوەیەکی باو بەکاردەهێنرێت بۆ وەرگرتنەوەی کۆدی دەستنیشانکردن, بەڵام کێشە پێشکەوتووترەکان لەوانەیە پێویستیان بە ئامرازی دەستنیشانکردنی پیشەیی هەبێت."
+        },
+        "5": {
+          "Question": "هەندێک هۆکاری باو چین بۆ دەرکەوتنی گڵۆپی 'بزوێنەری پشکنین' بە پشتبەستن بە کۆدەکانی دەستنیشانکردن؟",
+          "Answer": "هۆکارە باوەکان بریتین لە کێشەکانی هەستەوەری ئۆکسجین, گۆڕینی کاتالیتیک, شلبوونەوەی سەرپۆشی غاز, یان هەڵە تەقاندنی بزوێنەر."
+        },
+        "6": {
+          "Question": "کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل تا چەند وردن لە دەستنیشانکردنی کێشە تایبەتەکانی ئۆتۆمبێل؟",
+          "Answer": "کۆدەکانی دەستنیشانکردن خاڵی دەستپێک بۆ دەستنیشانکردنی کێشەکان دابین دەکەن بەڵام ڕەنگە هەمیشە بە وردی کێشەکە بە وردی دەستنیشان نەکەن, ئەمەش پێویستی بە لێکۆڵینەوەی زیاترە."
+        },
+        "7": {
+          "Question": "چەند جار پێویستە مرۆڤ پشکنینی کۆدی دەستنیشانکردن بکات لە ئۆتۆمبێلەکەیدا؟",
+          "Answer": "پشکنینی بەردەوام لە کاتی چاککردنەوەی ڕۆتینی یان کاتێک گڵۆپی ئاگادارکردنەوە دەردەکەون دەتوانێت یارمەتیدەر بێت لە زوو گرتنی کێشەکان و ڕێگریکردن لە کێشە ئەگەرییەکان."
+        },
+        "8": {
+          "Question": "ئایا دەتوانرێت کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل پاک بکرێتەوە/ڕێست بکرێتەوە بەبێ ئەوەی کێشە بنەڕەتییەکە چارەسەر بکرێت؟",
+          "Answer": "بەڵێ, دەتوانرێت کۆدەکان پاکبکرێنەوە, بەڵام چارەسەرکردنی کێشەی بنەڕەتی زۆر گرنگە؛ ئەگەرنا, ڕەنگە کێشەکە بەردەوام بێت و جارێکی دیکە کۆدەکە دەستپێبکاتەوە."
+        },
+        "9": {
+          "Question": "ئایا جۆری جیاوازی کۆدی دەستنیشانکردنی ئۆتۆمبێل هەیە بۆ سیستەمی جۆراوجۆری ئۆتۆمبێل؟",
+          "Answer": "بەڵێ, کۆدەکانی دەستنیشانکردن دەتوانن سیستەمی جیاوازی ئۆتۆمبێل بگرێتەوە, لەوانە بزوێنەر, گێڕ, ABS, ئەیرباگ و زۆر شتی تر."
+        },
+        "10": {
+          "Question": "دەرئەنجامەکانی پشتگوێخستنی کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل چین؟",
+          "Answer": " پشتگوێخستنی کۆدەکانی دەستنیشانکردن لەوانەیە ببێتە هۆی خراپبوونی کارایی ئۆتۆمبێل, کەمبوونەوەی کارایی سووتەمەنی و زیانگەیاندن بە پێکهاتەکانی دیکە."
+        },
+        "11": {
+          "Question": "ئایا دەتوانرێت بە بەکارهێنانی ئەپی مۆبایلە زیرەکەکان دەستت بگات بە کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل؟",
+          "Answer": "ئەپی سکانەری OBD-II بەردەستە کە دەتوانێت کۆدەکانی دەستنیشانکردن بخوێنێتەوە لە ڕێگەی ئەداپتەری گونجاوەوە کە بەستراوەتەوە بە دەرچەی OBD-IIی ئۆتۆمبێلەکەوە."
+        },
+        "12": {
+          "Question": "چۆن میکانیکەکان کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل بۆ چاککردنەوەی کێشەکان لێکدەدەنەوە؟",
+          "Answer": "میکانیکەکان کۆدخوێنەر یان ئامرازەکانی سکان بەکاردەهێنن بۆ وەرگرتنەوەی کۆدەکان, پاشان ڕاوێژ بە بنکەدراوە یان کتێبی ڕێنماییەکان دەکەن بۆ لێکدانەوەی کۆدەکان و دەستنیشانکردنی کێشەکە."
+        },
+        "13": {
+          "Question": "ئایا شێوازی DIY هەیە بۆ لێکدانەوە و چارەسەرکردنی کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل لە ماڵەوە؟",
+          "Answer": "بەڵێ, هەندێک لە ئارەزومەندانی DIY خوێنەری کۆد و سەرچاوەی ئۆنلاین بەکاردەهێنن بۆ لێکدانەوەی کۆدەکان, بەڵام پرسە ئاڵۆزەکان ڕەنگە پێویستیان بە شارەزایی پیشەیی هەبێت."
+        },
+        "14": {
+          "Question": "ئایا کۆدەکانی دەستنیشانکردنی ئۆتۆمبێل دەتوانن یارمەتیدەر بن لە ناسینەوەی کێشە پچڕپچڕەکانی ئۆتۆمبێل؟",
+          "Answer": "بەڵێ, کۆدەکانی دەستنیشانکردن هەندێک جار دەتوانن کێشە پچڕپچڕەکان بگرن ئەگەر ڕوو بدەن کاتێک سیستەمەکە خۆپشکنینی دەستنیشانکردن ئەنجام دەدات."
+        },
+        "15": {
+          "Question": "لە ساڵانی ڕابردوودا چ پێشکەوتنێک لە تەکنەلۆژیای کۆدی دەستنیشانکردنی ئۆتۆمبێلدا بەدیهاتووە؟",
+          "Answer": "پێشکەوتنەکان بریتین لە سکانەری ئاڵۆزتر, پەیوەندی بێ وایەر, و باشترکردنی نەرمەکاڵای لێکدانەوەی کۆد بۆ وردبینی باشتر."
+        },
+        "16": {
+          "Question": "ئایا یەک کێشە دەتوانێت چەندین کۆدی دەستنیشانکردن دەستپێبکات؟",
+          "Answer": "بەڵێ, هەندێک کێشە کە کاریگەرییان لەسەر چەندین سیستەم یان پێکهاتە هەیە دەتوانن چەندین کۆدی دەستنیشانکردن لە یەک کاتدا دەستپێبکەن."
+        },
+        "17": {
+          "Question": "ئایا کۆدی گشتی هەیە کە بۆ هەر ئۆتۆمبێلێک دەگونجێت, بەبێ گوێدانە مارکە و مۆدێل؟",
+          "Answer": "بەڵێ, کۆدەکانی OBD-II ستانداردن و بۆ زۆربەی ئەو ئۆتۆمبێلانە دەگونجێت کە لە دوای ساڵی 1996 دروستکراون, زمانێکی هاوبەش بۆ دەستنیشانکردن دابین دەکات."
+        },
+        "18": {
+          "Question": "چۆن کۆدەکانی دەستنیشانکردنی پەیوەست بە دەردانی گازی ژەهراوی کاریگەرییان لەسەر کارایی ئۆتۆمبێل هەیە؟",
+          "Answer": "کۆدەکانی پەیوەست بە دەردانی گازی ژەهراوی زۆرجار ئاماژە بەو پرسانە دەکەن کە کاریگەرییان لەسەر کارایی سووتەمەنی هەیە و دەتوانن ببنە هۆی خراپی کارایی یان زیادبوونی دەردانی گازی ژەهراوی."
+        }
+    }
+
+}
