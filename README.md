@@ -6,7 +6,7 @@ it`s the car project.
 
 this project is used to understand the obd2 car codes 
 
-the website that you can used 
+the website that you can use
 
 - [Website: website of Diagno car](http://diagnocar.rf.gd/)
 
